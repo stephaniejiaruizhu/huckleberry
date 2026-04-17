@@ -66,6 +66,8 @@ main .max-width-wrapper {
     padding-left: 32px;
     margin-top: 0;
     margin-left: -32px;
+    font-size: 1.2rem;
+    line-height: 1.5;
   }
 
   .card {
